@@ -222,6 +222,8 @@ Blog.foo_method
 
 意味もなく使うのやめよう
 
+`repond_to?` と `respond_to_missing?` も正しくオーバライドしよう
+
 
 すごいメタプログラミング楽しく学ぼう
 
