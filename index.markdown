@@ -233,4 +233,10 @@ Blog.foo_method
 参考: [define_method](http://docs.ruby-lang.org/ja/2.0.0/method/Module/i/define_method.html)
 
 
+## 今回のコード
+
+スライドからコピーしてもいいですが  
+一応 [kaosf/20141026-tokushimarb-codes](https://github.com/kaosf/20141026-tokushimarb-codes) にも置いておきます
+
+
 おしまい
