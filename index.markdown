@@ -163,7 +163,7 @@ a.n 1, 2, nil, 'a'
 ```ruby
 Blog.find_by_title('foo bar')
 # SQL で言うところの
-# SELECT * FROM blogs WHERE name = 'foo bar';
+# SELECT * FROM blogs WHERE title = 'foo bar';
 ```
 
 ※`Blog` というモデルがあり `title` というフィールドを持っていると想定
@@ -206,7 +206,7 @@ end
 Blog.find_by_title 'foo bar'
 ```
 
-だと `"name"` と `"foo bar"` が出る
+だと `"title"` と `"foo bar"` が出る
 
 ```ruby
 Blog.foo_method
