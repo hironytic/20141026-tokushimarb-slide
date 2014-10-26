@@ -223,7 +223,7 @@ Blog.foo_method
 意味もなく使うのやめよう
 
 `respond_to_missing?` も正しくオーバライドしよう  
-`respond_to?` がちゃんと機能するように。
+`respond_to?` がちゃんと機能するように
 
 
 すごいメタプログラミング楽しく学ぼう
