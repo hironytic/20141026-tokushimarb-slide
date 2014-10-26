@@ -2,6 +2,14 @@
 
 You can see this slide [here](http://kaosf.github.io/20141026-tokushimarb-slide).
 
+## License
+
+`index.markdown`
+
+[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+Copyright (C) 2014 ka
+
 # reveal.js forked by kaosf
 
 Version 2.5.0.0
